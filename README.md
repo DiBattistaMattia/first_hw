@@ -1,2 +1,2 @@
 # first_hw
-First homework od ISW2 course
+First homework of ISW2 course
